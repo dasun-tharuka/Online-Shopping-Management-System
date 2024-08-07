@@ -1,0 +1,4 @@
+
+C01,T-shirt,Clothing,3500.0,10,M,Brown
+
+C02,Shorts,Clothing,1500.0,20,34,Blue

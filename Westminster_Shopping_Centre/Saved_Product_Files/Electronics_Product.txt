@@ -1,0 +1,8 @@
+
+E01,TV,Electronics,20000.0,1,Samsung,12
+
+E02,Laptop,Electronics,200000.0,8,Dell,24
+
+E03,Smart Phone,Electronics,12000.0,3,Samsung,6
+
+E04,Washing Machine,Electronics,50000.0,2,Panasonic,12
